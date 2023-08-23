@@ -1,0 +1,31 @@
+.logo {
+    width: 100px;
+    height: auto;
+}
+
+.image-text-section {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;  
+    padding: 50px;
+}
+
+.text-box {
+    flex: 1; 
+    padding: 10px;
+} 
+.image-box {
+    max-width: 100%; 
+    text-align: left;
+}
+
+.image-box img {
+    max-width: 100%;
+}
+
+.pics{
+    padding-top: 30px;
+    width: 300px;
+    height: 300px;
+
+  }
