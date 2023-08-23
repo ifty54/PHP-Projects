@@ -1,0 +1,14 @@
+.sidenav {
+height: auto;
+width: 100%;
+background-image: url('b.png');
+}   
+.container{
+    padding-left: 400px;
+    position: absolute;
+}
+
+.btn btn-primary{
+    padding-top: 4px;
+    padding-bottom: 5px;
+}
